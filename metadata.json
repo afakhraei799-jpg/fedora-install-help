@@ -1,0 +1,6 @@
+{
+  "name": "آموزش تعاملی نصب نرم‌افزار در لینوکس فدورا",
+  "description": "فیلم آموزشی اینتراکتیو و راهنمای جامع گام‌به‌گام سناریوهای نصب برنامه در فدورا لینوکس شامل DNF، Flatpak، RPM، Copr، AppImage، اسنپ و کامپایل سورس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
